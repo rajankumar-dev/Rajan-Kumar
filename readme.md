@@ -89,7 +89,7 @@ furniture-website/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/furniture-website.git
+   (git clone https://github.com/rajankumar-dev/Rajan-Kumar.git)
    ```
 2. Navigate to the project folder:
 
@@ -102,7 +102,7 @@ furniture-website/
 
 ## 🔗 Live Demo
 
-> *[Go Live](https://furnitureldpage.netlify.app/)
+> [Go Live..](https://furnitureldpage.netlify.app/)
 
 ---
 
