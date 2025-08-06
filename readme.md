@@ -73,7 +73,14 @@ furniture-website/
 
 ## 📸 Screenshots
 
-> *(Add screenshots here to visually represent the website UI)*
+## [Static Furniture Website](https://github.com/rajankumar-dev/Sigma8.0-WebDev/tree/main/assignment/week-2/challenge-1)
+
+![Hero Section](https://github.com/rajankumar-dev/Sigma8.0-WebDev/blob/main/assignment/week-2/challenge-1/screenshots/Screenshot%202025-07-03%20114250.png?raw=true)
+
+![Item Section](https://github.com/rajankumar-dev/Sigma8.0-WebDev/blob/main/assignment/week-2/challenge-1/screenshots/Screenshot%202025-07-03%20114314.png?raw=true)
+
+![Product Section](https://github.com/rajankumar-dev/Sigma8.0-WebDev/blob/main/assignment/week-2/challenge-1/screenshots/Screenshot%202025-07-03%20114345.png?raw=true)
+
 
 ---
 
@@ -95,7 +102,7 @@ furniture-website/
 
 ## 🔗 Live Demo
 
-> *(Add your deployed link here if hosted on Netlify, GitHub Pages, etc.)*
+> *[Go Live](https://furnitureldpage.netlify.app/)
 
 ---
 
