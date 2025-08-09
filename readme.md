@@ -14,8 +14,8 @@ Welcome to my Week 2 Assignments repository! Here, you'll find solutions to CSS 
 
 
 ## ✨ Features
-- 🧭 Responsive Web Design — All section are fully Responsive
 - 🎨 Smooth Hover Effects — On menu and Button and icons
+- 🧭 Responsive Web Design — All section are fully Responsive
 - 🔒 Unsplash — Use copywrite free Picture on Unsplash
 - 📱 Mobile Friendly — Viewport and layout adaptable
 - 🎥 Custom Background — Stylish fullscreen background image
@@ -39,8 +39,8 @@ A sleek and responsive **Furniture Website** built using **HTML5**, **CSS3**, an
 ## 🚀 Features
 
 * 🧭 **Responsive Navigation Bar**
-* 🛋️ **Furniture Showcase** with cards and images
 * 🗂️ **Multiple Sections**: Home, About, Products, Contact
+* 🛋️ **Furniture Showcase** with cards and images
 * 🌙 **Modern UI** design using Bootstrap utilities
 * 📱 Fully **responsive design** for all screen sizes
 
