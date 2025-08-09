@@ -32,7 +32,7 @@ Welcome to my Week 2 Assignments repository! Here, you'll find solutions to CSS 
 
 # 🪑 Furniture Website
 
-A sleek and responsive **Furniture Website** built using **HTML5**, **CSS3**, and **Bootstrap 5**. This project showcases a modern UI for a furniture business or online store, featuring clean design, intuitive navigation, and mobile-friendly layout.
+A sleek and responsive **Furniture Website** built using **HTML5**, **CSS3**, and **Bootstrap 5**. This project showcases a modern UI for a furniture business or online stores, featuring clean design, intuitive navigation, and mobile-friendly layout.
 
 ---
 
@@ -41,8 +41,8 @@ A sleek and responsive **Furniture Website** built using **HTML5**, **CSS3**, an
 * 🧭 **Responsive Navigation Bar**
 * 🗂️ **Multiple Sections**: Home, About, Products, Contact
 * 🛋️ **Furniture Showcase** with cards and images
-* 🌙 **Modern UI** design using Bootstrap utilities
 * 📱 Fully **responsive design** for all screen sizes
+* 🌙 **Modern UI** design using Bootstrap utilities
 
 ---
 
