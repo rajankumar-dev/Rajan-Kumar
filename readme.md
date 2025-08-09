@@ -51,6 +51,7 @@ A sleek and responsive **Furniture Website** built using **HTML5**, **CSS3**, an
 * **HTML5** – Semantic and accessible structure
 * **CSS3** – Custom styling and responsiveness
 * **Bootstrap 5** – Layout system, components, and responsive utilities
+* **Fontowesome** – Use Fontowesome for Icons
 
 ---
 
